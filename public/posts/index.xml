@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Candace and Jorge Gifts</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Candace and Jorge Gifts</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2024 20:37:30 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Voucher Lazybearsf</title>
+      <link>http://localhost:1313/posts/voucher-lazybearsf/</link>
+      <pubDate>Tue, 11 Jun 2024 20:37:30 +0000</pubDate>
+      <guid>http://localhost:1313/posts/voucher-lazybearsf/</guid>
+      <description>Tasting Menu with Wine Pairing at the renowned Lazy Bear SF Congratulations, Candace &amp;amp; Jorge! You are invited to enjoy a Tasting Menu with Wine Pairing at the renowned Lazy Bear restaurant in San Francisco.&#xA;To the happy couple, with love and best wishes!</description>
+    </item>
+    <item>
+      <title>Golden Gate Seaplane Tour</title>
+      <link>http://localhost:1313/posts/golden-gate/</link>
+      <pubDate>Tue, 11 Jun 2024 08:57:18 +0000</pubDate>
+      <guid>http://localhost:1313/posts/golden-gate/</guid>
+      <description>Golden Gate Seaplane Tour Take flight over one of the Seven Wonders of the Modern World, the Golden Gate Bridge! Our most popular tour shares views of this iconic bridge and the San Francisco skyline.&#xA;The experience Take off from the waters of Marin, the county connecting San Francisco to the rest of California via the Golden Gate Bridge. Soar through the gate to the San Francisco Bay on this iconic seaplane tour.</description>
+    </item>
+  </channel>
+</rss>

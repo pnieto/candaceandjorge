@@ -1,3 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://candaceandjorge.pnieto.xyz/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Candace and Jorge Gifts'
+theme = "newsroom"
