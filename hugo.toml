@@ -2,3 +2,4 @@ baseURL = 'https://candaceandjorge.pnieto.xyz/'
 languageCode = 'en-us'
 title = 'Candace and Jorge Gifts'
 theme = "newsroom"
+favicon = '/favicon.ico'
